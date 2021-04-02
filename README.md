@@ -4,3 +4,4 @@
 
 <p> I'm using PyCharm (Python) for most of these projects and personally use a bunch of the work here on my homebuilt server.</p>
 
+<img src="https://github.com/james-not-jim/james-not-jim/blob/main/image.png?raw=true" >
