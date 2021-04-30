@@ -1,6 +1,6 @@
  # Hello World, The Future is Now
 
-I've created this GitHub Page to help grow my portfolio for collage. Right now its pretty empty. I'm working a little with @GarrettRector on some projects and creating my own projects in Python, Java, Arduino C, HTML, Node.JS, NW.js, and more. Its all just a learning experience.
+I've created this GitHub Page to help grow my portfolio for collage. Right now its pretty empty. I'm working a little with [@GarrettRector](https://github.com/GarrettRector) on some projects and creating my own projects in Python, Java, Arduino C, HTML, Node.JS, NW.js, and more. Its all just a learning experience.
 
 A lot of these are just basic programs to make my life easier at school.
 
