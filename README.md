@@ -9,6 +9,9 @@ If you want to run any of the python projects don't worry about dependancies, pi
 <p align="center">
  <a href="https://github.com/anuraghazra/github-readme-stats">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jamesaharris&show_icons=true&theme=dark" />
+  <a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesaharris&theme=dark&layout=compact" />
+</a>
  </a>
   <img src="https://github.com/james-not-jim/james-not-jim/blob/main/image.png?raw=true" style="float:left">
 </p>
