@@ -5,12 +5,11 @@ I've created this GitHub Page to help grow my portfolio for college. The Echo wa
 A lot of these are just basic programs to make my life easier at school and to host my websites.
 
 <p align="center">
- <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jamesaharris&show_icons=true&theme=dark" />
   <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesaharris&theme=dark&count_private=true?exclude_repo=amesjarris.com&layout=compact" />
 </a>
- </a>
+</p>
+<p align="center">
   <img src="https://github.com/james-not-jim/james-not-jim/blob/main/image.png?raw=true" style="float:left">
 </p>
 
