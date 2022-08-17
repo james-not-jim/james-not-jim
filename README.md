@@ -1,6 +1,6 @@
  # Hello World.
  
-A lot of these are just basic programs to make my life easier at school and to host my websites.
+Mechanical Lead on FRC 6910, Learning to Program on MA2, Engineering in HS
 
 <p align="center">
   <a href="https://github.com/anuraghazra/convoychat">
